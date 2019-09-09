@@ -1,0 +1,143 @@
+* {
+    color: #212121;
+}
+.list-item__title {
+    color: #212121;
+}
+.color-gray {
+    color: #757575 !important;
+}
+.longdivider {
+    background-image: linear-gradient(0deg, #eee, #eee 100%) !important;
+    background-size: 100% 2px;
+}
+.list-item__thumbnail {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    padding-top: 4px;
+}
+.pl10 {
+    padding-left: 10px;
+}
+.bottom-pencil {
+    background-color: #88d5ff !important;
+}
+.bottom-pencil .ons-icon.fa {
+    color: #fff;
+}
+.tabbar.ons-tabbar__footer.ons-swiper-tabbar {
+    border-top: none;
+    box-shadow: -3px 0px 8px 0px #ccc;
+    padding: 6px 0;
+}
+.tabbar.ons-tabbar__footer.ons-swiper-tabbar  .tabbar__label {
+    padding-top: 4px;
+}
+.button {
+    background: #88d5ff;
+}
+ons-button.button .fa {
+    padding-right: 4px;
+    color: #fff;
+}
+.profile-modal {
+    background: rgba(0,0,0,.8);
+}
+.profile-modal h1 {
+    margin-bottom: 4px;
+}
+.profile-modal h1, .profile-modal span, .profile-modal h1 font,.profile-modal .user-info font  {
+    color: #fff;
+}
+.profile-modal img {
+    margin-top: 10px;
+}
+.profile-modal .user-info {
+    padding: 10px 0;
+}
+.toolbar {
+  background: #88d5ff;
+  padding: 6px 0;
+  height: 56px;
+  box-shadow: 1px 1px 10px 1px #eee;
+}
+.toolbar .toolbar-button {
+  color: #fff;
+}
+.toolbar+.page__background+.page__content {
+  top: 56px;
+}
+.back-button__icon {
+  color: #fff;
+}
+.back-button__icon {
+  margin-left: 10px;
+  fill: #fff;
+}
+.back-button__label {
+  padding-left: 30px;
+  padding-top: 2px;
+  font-weight: 600;
+  color: #fff;
+}
+.back-button__label font, .toolbar-heading font, .button font {
+  color: #fff;
+}
+.page, .page__content, .page--material, .page--material__content {
+  background: #fff !important;
+}
+.page-dark .page__content {
+  background: #f5f5f5 !important;
+}
+.toolbar-heading {
+  padding-left: 15px;
+  color: #fff;
+  font-weight: 600;
+}
+.ml10 {
+  margin-left: 10px;
+}
+
+.gray-btns .button {
+  background: #fff;
+  border: 1px solid #eee;
+  color: #777;
+  margin: 10px 8px 0 0;
+}
+.gray-btns ons-button.button .fa {
+  padding-right: 4px;
+  color: #757575 !important;
+}
+.no-bg, .no-bg .list-item__center {
+  background: none;
+}
+.pa-0 {
+  padding: 0 12px;
+}
+.gray-btns .left,.gray-btns .center, .gray-btns .right {
+  padding: 0 0 12px 0;
+}
+ons-tab.tabbar__item.active .tabbar__icon .ons-icon, ons-tab.tabbar__item.active .tabbar__label, ons-tab.tabbar__item.active .tabbar__label font {
+  color: #88d5ff;
+}
+.image-cropper .cropper-drag-box.cropper-move {
+  background: #fff;
+}
+.image-cropper .cropper-drag-box.cropper-move:before {
+    content: "プレビュー";
+    top: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.custom-input .text-input, .custom-input .search-input {
+  border: none !important;
+}
+.bt-3 {
+  min-width: 40px;
+}
+.user-register-btn {
+  padding-left: 30px;
+  padding-right: 30px;
+}

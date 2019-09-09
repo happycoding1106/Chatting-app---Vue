@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "chat",
+  "short_name": "chat",
+  "version": "com.myapp.chatapp",
+  "description": "Vue.js + Onsen UI + Cordova sample app",
+  "author": "Vue.js + Onsen UI + Cordova teams",
+  "icons": [],
+  "start_url": "index.html"
+}
