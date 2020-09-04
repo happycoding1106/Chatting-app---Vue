@@ -23,7 +23,7 @@
     "vue": "^2.5.0",
     "vue-cordova": "^0.1.2",
     "vue-cropper": "^0.2.9",
-    "vue-moment": "^4.0.0",
+    "vue-moment": "^4.1.0",
     "vue-onsenui": "^2.5.0",
     "vue-scrollto": "^2.11.0",
     "vue-slider-component": "^2.8.0",
